@@ -5,3 +5,5 @@ print(c)
 
 pembagian = a/b
 print(pembagian)
+perkalian = a*b
+
